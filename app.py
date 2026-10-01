@@ -1,7 +1,7 @@
 import streamlit as st
 from datetime import datetime
 from pathlib import Path
-st.image("trassua.jpg")
+st.image("trassua.JPG")
 # =========================================================
 # CẤU HÌNH TRANG
 # =========================================================
