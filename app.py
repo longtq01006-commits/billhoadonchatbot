@@ -2,6 +2,7 @@ import streamlit as st
 st.image("trasua.JPG")
 from datetime import datetime
 from pathlib import Path
+
 # =========================================================
 # CẤU HÌNH TRANG
 # =========================================================
@@ -10,7 +11,7 @@ st.set_page_config(
     page_icon="🧋",
     layout="centered"
 )
-st.image("trasua.JPG")
+
 # =========================================================
 # CSS GIAO DIỆN
 # =========================================================
